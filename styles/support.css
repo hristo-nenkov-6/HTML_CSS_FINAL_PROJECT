@@ -1,0 +1,20 @@
+.support{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    padding: 3em 0;
+    background-color: #E14747;
+}
+.support h2{
+    font-size: 1.2em;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.support p{
+    font-size: 0.8em;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2em;
+}

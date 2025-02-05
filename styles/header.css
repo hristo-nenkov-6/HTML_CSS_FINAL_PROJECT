@@ -1,0 +1,7 @@
+header .container{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url(.\images\poster.jpg);
+    background-size: cover;
+    background-position-y: 25%;
+    background-color: burlywood;
+}

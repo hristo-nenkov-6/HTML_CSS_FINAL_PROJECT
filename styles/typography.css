@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css2?family=Karla&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap);
+html{
+    font-size: 16px;
+    line-height: 1.5;
+}
+.header-top nav ul li a,
+.testemonial .description p,
+.header-title p,
+.support,
+.understand,
+.guide p,
+.bottom{
+    font-family: "Karla", sans-serif;
+    font-size: 18px;
+}
+.header-title h1{
+    font-family: "Cormorant Infant", sans-serif;
+    font-size: 90px;
+}
+.testemonial .description h5{
+    font-family: "Cormorant Infant", sans-serif;
+    font-size: 16px;
+}
+.testemonial .description p{
+    font-family: "Cormorant Infant", sans-serif;
+    font-size: 56px;
+    line-height: 0.9;
+    font-weight: bold;
+    font-style: italic;
+}
+.understand h1{
+    font-family: "Cormorant Infant", sans-serif;
+    font-size: 60px;
+}
+.guide h1{
+    font-family: "Cormorant Infant", sans-serif;
+    font-size: 50px;
+}

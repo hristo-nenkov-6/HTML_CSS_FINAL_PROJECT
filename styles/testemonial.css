@@ -1,0 +1,11 @@
+.testemonial{
+    background-color: #F8F0E9;
+    padding-bottom: 6em;
+}
+.testemonial .description{
+    width: 60%;
+    margin: 0 auto;
+}
+.testemonial .description h5{
+    padding: 2em 0 3em 0;
+}

@@ -1,0 +1,38 @@
+.understand-outside{
+    background-color: #F8F0E9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.understand img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.understand{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4em;
+    width: 37%;
+    padding: 5em 0;
+}
+.understand h1{
+    text-align: center;
+    line-height: 1;
+    color: #352B2A;
+}
+.understand p{
+    line-height: 1.2;
+}
+.understand .read p{
+    padding-bottom: 4em;
+}
+.understand a{
+    color: #000;
+    background-color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-decoration: none;
+}

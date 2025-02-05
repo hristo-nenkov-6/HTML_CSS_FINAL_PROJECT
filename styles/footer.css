@@ -1,0 +1,18 @@
+.bottom{
+    padding: 4em 6em;
+    background-color: #352B2A;
+}
+.bottom img{
+    display: block;
+    width: 7%;
+    height: auto;
+    padding-bottom: 2em;
+}
+.bottom p{
+    color: #fff;
+    width: 43%;
+}
+.bottom .rigths{
+    padding-top: 1em;
+    color: #766862;
+}

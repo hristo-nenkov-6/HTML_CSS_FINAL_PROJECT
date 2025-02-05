@@ -1,0 +1,10 @@
+.header-title{
+    margin: 10em auto 0 auto;
+    padding-bottom: 2em;
+    text-align: center;
+    color: #fff;
+}
+.header-title p{
+    margin: 4em auto;
+    width: 45%;
+}
